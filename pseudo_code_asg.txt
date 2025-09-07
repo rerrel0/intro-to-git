@@ -1,0 +1,20 @@
+Assignment: Area of Rectangle
+
+· Create an algorithm pseudo-code to calculate area of rectangle with following formula:
+
+Start 
+	length = 5;
+	width = 3;
+	area = length * width;
+	Output area;
+End 
+
+
+· Create an algorithm pseudo-code to calculate an area of rectangle with the same formula of previous example, with new condition where the length and width is given by user (input).
+
+Start
+	Input length;
+	Input width;
+	area = length * width;
+	Output area;
+End
